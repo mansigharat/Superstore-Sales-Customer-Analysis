@@ -45,7 +45,7 @@ The goal is to identify top-selling products, seasonal sales trends, high-value 
 - `Superstore_Sales_Analysis.ipynb` – Jupyter Notebook with step-by-step queries, visualizations, and insights.
 
 ## Contact
-- GitHub: [https://github.com/yourusername/Superstore-Sales-Customer-Analysis](https://github.com/yourusername/Superstore-Sales-Customer-Analysis)  
-- LinkedIn: [Your LinkedIn Profile Link]
+- GitHub: https://github.com/mansigharat/Superstore-Sales-Customer-Analysis
+- LinkedIn: https://www.linkedin.com/in/mansigharat/
 
 
